@@ -9,6 +9,6 @@ Combined News + Stock price data  is large file size of around 227 MB. If can't 
 
 
  Access the weights of LSTM ,ARIMA models individually .\
- To use ARIMA model - Use command ''' loaded = ARIMAResults.load('arima_model.pkl') '''\
+ To use ARIMA model - Use command ``` loaded = ARIMAResults.load('arima_model.pkl') ```   \
  
- To use LSTM model  - Use command ''' model = tf.keras.models.load_model('lstm_model.h5')'''
+ To use LSTM model  - Use command   ``` model = tf.keras.models.load_model('lstm_model.h5') ```
